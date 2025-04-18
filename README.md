@@ -1,4 +1,4 @@
-# Maji Ndogo Farming Automation: SQL and Data Analysis
+# Farming Automation
 
 This SQL notebook is part of an ambitious project to **automate farming** in Maji Ndogo, a region with diverse and challenging agricultural landscapes. The goal is to optimize farming decisions by analyzing key factors such as **rainfall, soil fertility, and climate conditions**, ensuring that technology is deployed where it will have the greatest impact.
 
